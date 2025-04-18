@@ -2,7 +2,7 @@
   "persons": [
     {
       "img_avatar": "https://s21.uupload.ir/files/mohamdreza32/MarketShavvaz/11zon%20(1).png",
-      "id": "قیمت 190هزار تومان ",
+      "id": "قیمت 170هزار تومان ",
       "name": "گلاب محلی محصو لات طبیعی روستای شواز  ",
       "city": "ناموجود"
     },
