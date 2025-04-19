@@ -32,7 +32,7 @@
     },
     {
     "img_avatar": "https://s21.uupload.ir/files/mohamdreza32/MarketShavvaz/avatar_a.png",
-      "id": "قیمت8هزار تومان ",
+      "id": "قیمت50هزار تومان ",
       "name": "انار شرین درجه یک",
       "city": "ناموجود"
     }
