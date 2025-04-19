@@ -3,7 +3,7 @@
     {
       "img_avatar": "https://s21.uupload.ir/files/mohamdreza32/MarketShavvaz/11zon%20(1).png",
       "id": "قیمت 170هزار تومان ",
-      "name": "گلاب محلی محصو لات طبیعی روستای شواز  ",
+      "name": "گلاب محلی درجه یک محصو لات طبیعی روستای شواز  ",
       "city": "ناموجود"
     },
     {
@@ -14,27 +14,27 @@
     },
     {
     "img_avatar": "https://s21.uupload.ir/files/mohamdreza32/MarketShavvaz/avatar_a.png",
-      "id": "قیمت8هزار تومان ",
-      "name": "تخم مرغابی  ",
-      "city": "موجود"
+      "id": "قیمت50هزار تومان ",
+      "name": "گل گاوزبان  ",
+      "city": "ناموجود"
     },
     {
     "img_avatar": "https://s21.uupload.ir/files/mohamdreza32/MarketShavvaz/avatar_a.png",
-      "id": "قیمت8هزار تومان ",
-      "name": "تخم مرغابی  ",
-      "city": "موجود"
+      "id": "قیمت50هزار تومان ",
+      "name": "شوید  ",
+      "city": "ناموجود"
     },
     {
     "img_avatar": "https://s21.uupload.ir/files/mohamdreza32/MarketShavvaz/avatar_a.png",
-      "id": "قیمت8هزار تومان ",
-      "name": "تخم مرغابی  ",
-      "city": "موجود"
+      "id": "قیمت35هزار تومان ",
+      "name": انار ترش ملس  ",
+      "city": "ناموجود"
     },
     {
     "img_avatar": "https://s21.uupload.ir/files/mohamdreza32/MarketShavvaz/avatar_a.png",
-      "id": "قیمت8هزار تومان ",
-      "name": "تخم مرغابی  ",
-      "city": "موجود"
+      "id": "قیمت50هزار تومان ",
+      "name": "انار شرین درجه یک ",
+      "city": "ناموجود"
     }
   ]
 }
