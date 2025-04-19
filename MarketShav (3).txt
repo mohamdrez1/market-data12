@@ -9,7 +9,7 @@
     {
      "img_avatar": "https://s21.uupload.ir/files/mohamdreza32/MarketShavvaz/11zon%20(2).png",
       "id": "قیمت 300هزار تومان ",
-      "name": "رب انار محلی",
+      "name": "رب انار محلی  ",
       "city": "موجود"
     },
     {
@@ -27,15 +27,14 @@
     {
     "img_avatar": "https://s21.uupload.ir/files/mohamdreza32/MarketShavvaz/avatar_a.png",
       "id": "قیمت35هزار تومان ",
-      "name": انار ترش ملس",
+      "name": "انار ترش ملس",
       "city": "ناموجود"
     },
     {
     "img_avatar": "https://s21.uupload.ir/files/mohamdreza32/MarketShavvaz/avatar_a.png",
-      "id": "قیمت50هزار تومان ",
+      "id": "قیمت8هزار تومان ",
       "name": "انار شرین درجه یک",
       "city": "ناموجود"
     }
   ]
 }
-
