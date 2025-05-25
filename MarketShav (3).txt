@@ -2,9 +2,9 @@
   "persons": [
     {
       "img_avatar": "https://s5.uupload.ir/files/mohamdreza32/MarketShavvaz/22741157329998_11zon%20(2).png",
-      "id": "قیمت 170هزار تومان ",
+      "id": " قیمت 150هزار تومان باتخفیف ",
       "name": "گلاب محلی درجه یک محصو لات طبیعی روستای شواز",
-      "city": "ناموجود"
+      "city": "موجود"
     },
     {
      "img_avatar": "https://s5.uupload.ir/files/mohamdreza32/MarketShavvaz/0x244.jpg",
@@ -13,15 +13,39 @@
       "city": "موجود"
     },
     {
-    "img_avatar": "https://s5.uupload.ir/files/mohamdreza32/MarketShavvaz/images.jpg",
-      "id": "قیمت50هزار تومان ",
-      "name": "گل گاوزبان",
-      "city": "ناموجود"
-    },
-    {
     "img_avatar": "https://s5.uupload.ir/files/mohamdreza32/MarketShavvaz/img(1).jpg",
       "id": "قیمت50هزار تومان ",
       "name": "شوید",
+      "city": "موجود"
+    },
+ {
+    "img_avatar": "https://s5.uupload.ir/files/mohamdreza32/MarketShavvaz/img(1).jpg",
+      "id": "قیمت40 هزار تومان ",
+      "name": "نعنا خشک ",
+      "city": "موجود"
+    },
+ {
+    "img_avatar": "https://s5.uupload.ir/files/mohamdreza32/MarketShavvaz/img(1).jpg",
+      "id": "قیمت50هزار تومان ",
+      "name": "آویشن کوهی ",
+      "city": "موجود"
+    },
+ {
+    "img_avatar": "https://s5.uupload.ir/files/mohamdreza32/MarketShavvaz/img(1).jpg",
+      "id": "قیمت40هزار تومان ",
+      "name": "جعفری خشک شده ",
+      "city": "موجود"
+    },
+ {
+    "img_avatar": "https://s5.uupload.ir/files/mohamdreza32/MarketShavvaz/img(1).jpg",
+      "id": "قیمت70هزار تومان ",
+      "name": "خاکشیر درجه یک ",
+      "city": "موجود"
+    },
+   {
+    "img_avatar": "https://s5.uupload.ir/files/mohamdreza32/MarketShavvaz/images.jpg",
+      "id": "قیمت50هزار تومان ",
+      "name": "گل گاوزبان",
       "city": "ناموجود"
     },
     {
